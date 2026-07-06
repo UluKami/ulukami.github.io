@@ -26,3 +26,19 @@ So, don’t box yourself into the one field that you specialize in. You are capa
 
 But what do you think? Do you know of any other examples where learning one language or system helped you in improving another?
 
+<script src="https://giscus.app/client.js"
+        data-repo="UluKami/ulukami.github.io"
+        data-repo-id="R_kgDOTO1r4A"
+        data-category="Q&A"
+        data-category-id="DIC_kwDOTO1r4M4DAoJk"
+        data-mapping="og:title"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
