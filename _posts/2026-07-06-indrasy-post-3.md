@@ -6,7 +6,7 @@ categories: systems database
 ---
 While I was sketching out the outline of how I plan for the system to operate, I had an epiphany of sorts. A majority of the work I was doing reminded me of the structured steps that one does when designing databases. 
 
-The tools we are using to map out our designs is through the C4 model that was created by Simon Brown. You can check it out here. The levels between each diagram representing a more detailed scope in the design process evoked the memories of using the ER diagram and relational diagram to plan out my databases.
+The tools we are using to map out our designs is through the C4 model that was created by Simon Brown. You can check it out [here](https://c4model.com/). The levels between each diagram representing a more detailed scope in the design process evoked the memories of using the ER diagram and relational diagram to plan out my databases.
 
 The ER diagram is very broad, allowing you to think of what entities are necessary and how each relates to each other. Due to this simplistic nature, you don’t get lost in thinking about the intricacies of the system, which allows you to focus on defining what is important.
 
