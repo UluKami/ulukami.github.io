@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
+remote-theme: "jekyll/minima@1e8a445"
 title: Bruh Sketty
 description: Welcome to my blog!
