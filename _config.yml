@@ -26,7 +26,8 @@ theme: minima
 plugins:
   - jekyll-feed
 minima:
-  skin: auto
+  skin: dark
+  date_format: "%b %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
