@@ -8,7 +8,7 @@ This is a topic that I just recently had trouble with, but I know has been an is
 
 This can be seen in multiple genres, but the soulslike field is one of the easiest places to point to for one to see this phenomena in action.
 
-The wikipage Fextralife has been in hot water for artificially inflating their views on the live-streaming platform Twitch.tv "(see "[here](https://www.dexerto.com/entertainment/fextralife-under-fire-by-streamers-for-stealing-views-2268389/)")", but they also suffer from proper management. They maintain old information and allow people to upload misleading and blatently wrong information to the site.
+The wikipage Fextralife has been in hot water for artificially inflating their views on the live-streaming platform Twitch.tv (see [here](https://www.dexerto.com/entertainment/fextralife-under-fire-by-streamers-for-stealing-views-2268389/)), but they also suffer from proper management. They maintain old information and allow people to upload misleading and blatently wrong information to the site.
 
 I personally experienced this when I was in highschool playing through the Dark Souls franchise. I still remember the grueling experience of using the Fextralife page for finding the Silver Pendant in Oolacile Township, an area in the first game's dlc. The walkthrough on the site had a terrible explanation on where to find it, causing me to go in loops until I watched a video that explained the route used to get to the item. The modern page for this item still has a vague description of how to find the item and better yet, includes misinformation about this item being related to the Path of the Dragon covenant.
 
