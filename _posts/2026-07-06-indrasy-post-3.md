@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Locking Yourself In One Path"
-date:   2026-07-06 14:58:07 -0400
+date:   2026-07-06
 categories: systems database
 ---
 While I was sketching out the outline of how I plan for the system to operate, I had an epiphany of sorts. A majority of the work I was doing reminded me of the structured steps that one does when designing databases. 
